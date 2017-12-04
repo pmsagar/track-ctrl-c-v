@@ -1,0 +1,11 @@
+c:\users\srivatsav\documents\visual studio 2015\Projects\CtrlCP\CtrlCP\bin\Debug\CtrlCP.exe.config
+c:\users\srivatsav\documents\visual studio 2015\Projects\CtrlCP\CtrlCP\bin\Debug\CtrlCP.exe
+c:\users\srivatsav\documents\visual studio 2015\Projects\CtrlCP\CtrlCP\bin\Debug\CtrlCP.pdb
+c:\users\srivatsav\documents\visual studio 2015\Projects\CtrlCP\CtrlCP\obj\Debug\CtrlCP.csprojResolveAssemblyReference.cache
+c:\users\srivatsav\documents\visual studio 2015\Projects\CtrlCP\CtrlCP\obj\Debug\CtrlCP.Form1.resources
+c:\users\srivatsav\documents\visual studio 2015\Projects\CtrlCP\CtrlCP\obj\Debug\CtrlCP.Properties.Resources.resources
+c:\users\srivatsav\documents\visual studio 2015\Projects\CtrlCP\CtrlCP\obj\Debug\CtrlCP.csproj.GenerateResource.Cache
+c:\users\srivatsav\documents\visual studio 2015\Projects\CtrlCP\CtrlCP\obj\Debug\CtrlCP.exe
+c:\users\srivatsav\documents\visual studio 2015\Projects\CtrlCP\CtrlCP\obj\Debug\CtrlCP.pdb
+c:\users\srivatsav\documents\visual studio 2015\Projects\CtrlCP\CtrlCP\obj\Debug\Interop.InteropExtensionLib.dll
+c:\users\srivatsav\documents\visual studio 2015\Projects\CtrlCP\CtrlCP\obj\Debug\CtrlCP.csproj.ResolveComReference.cache
